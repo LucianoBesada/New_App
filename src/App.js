@@ -1,13 +1,15 @@
 import logo from './logo.svg';
+import pair from './pair.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
+	<img src={pair} className="App-logo" alt="pair" />
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hello there! How are you?
         </p>
         <a
           className="App-link"
