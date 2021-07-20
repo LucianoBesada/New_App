@@ -72,3 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # ModifiedApp-GittHub
 # My-rectApp
 "# My_app" 
+"# New_App" 
